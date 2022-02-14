@@ -1,0 +1,23 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenWeatherTime"
+
+# Tutaj mozna wlaczyc/wylaczyc trwaly dzien/noc:
+day_setup: true
+
+# Tutaj mozna ustawic czas jaki ma byc przy trwalym dniu:
+# Pamietaj, ustawienia sa takie same jak przy komendzie /time set, wiec jesli chcesz wieczna noc musisz zastosowac np. 12000.
+time_set: 1000
+
+# Tutaj mozna ustawic trwaly deszcz lub bezdeszczowa pore:
+rains_setup: true
+
+# Tutaj mozesz ustawic czy maja byc burze, czy ma byc czyste niebo, czy maja byc zwykle opady deszczu:
+# Dla czystej pogody:
+clear_weather: true
+# Dla burzliwej pogody:
+thunder_weather: false
+# Dla deszczowej pogody:
+rain_weather: false
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true
